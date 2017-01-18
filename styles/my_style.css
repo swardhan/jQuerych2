@@ -1,0 +1,21 @@
+#wrap {
+  margin: 50px 218px;
+}
+
+.image {
+  float: left;
+  height: 245px;
+  border: 1px solid #000;
+  margin: 3px 2px;
+}
+
+#header {
+    border: 0px;
+    height: 50px;
+    text-align: center;
+}
+
+#main {
+    background-color: grey;
+    height: 500px;
+}
